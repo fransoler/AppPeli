@@ -1,0 +1,12 @@
+.info-img{
+
+    max-height: 50;
+    max-width: 50;
+    padding: 5px;
+}
+
+@media (max-width: 800px){
+    .info-img{
+      max-height: 100%;
+    }
+}
